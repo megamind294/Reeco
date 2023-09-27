@@ -1,0 +1,26 @@
+.bg-change {
+  background-color: #1e633f;
+}
+
+.logo-adj {
+  width: 100px;
+  height: fit-content;
+}
+
+.btn1 {
+  background-color: white !important;
+  color: #1e633f !important;
+  font-size: 14px;
+  font-weight: 600;
+  border-color: #1e633f !important;
+}
+
+.btn2 {
+  background-color: #1e633f !important;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+}
+.text-reset {
+    color: #A2A2A2;
+}

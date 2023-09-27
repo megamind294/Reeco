@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "productName": {
+      "name": "Product 1",
+      "icon": "icon-option"
+    },
+    "brand": "Brand 1",
+    "quantity": 10,
+    "total": 100,
+    "status": {
+      "icon": "tick-mark",
+      "text": "Active"
+    }
+  },
+  {
+    "id": 2,
+    "productName": {
+      "name": "Product 2",
+      "icon": "icon-option"
+    },
+    "brand": "Brand 2",
+    "quantity": 5,
+    "total": 50,
+    "status": {
+      "icon": "tick-mark",
+      "text": "Active"
+    }
+  },
+  {
+    "id": 3,
+    "productName": {
+      "name": "Product 3",
+      "icon": "icon-option"
+    },
+    "brand": "Brand 3",
+    "quantity": 8,
+    "total": 80,
+    "status": {
+      "icon": "tick-mark",
+      "text": "Active"
+    }
+  },
+  {
+    "id": 4,
+    "productName": {
+      "name": "Product 4",
+      "icon": "icon-option"
+    },
+    "brand": "Brand 4",
+    "quantity": 12,
+    "total": 120,
+    "status": {
+      "icon": "tick-mark",
+      "text": "Active"
+    }
+  },
+  {
+    "id": 5,
+    "productName": {
+      "name": "Product 5",
+      "icon": "icon-option"
+    },
+    "brand": "Brand 5",
+    "quantity": 7,
+    "total": 70,
+    "status": {
+      "icon": "tick-mark",
+      "text": "Active"
+    }
+  },
+  {
+    "id": 6,
+    "productName": {
+      "name": "Product 6",
+      "icon": "icon-option"
+    },
+    "brand": "Brand 6",
+    "quantity": 15,
+    "total": 150,
+    "status": {
+      "icon": "tick-mark",
+      "text": "Active"
+    }
+  },
+  {
+    "id": 7,
+    "productName": {
+      "name": "Product 7",
+      "icon": "icon-option"
+    },
+    "brand": "Brand 7",
+    "quantity": 3,
+    "total": 30,
+    "status": {
+      "icon": "tick-mark",
+      "text": "Active"
+    }
+  },
+  {
+    "id": 8,
+    "productName": {
+      "name": "Product 8",
+      "icon": "icon-option"
+    },
+    "brand": "Brand 8",
+    "quantity": 20,
+    "total": 200,
+    "status": {
+      "icon": "tick-mark",
+      "text": "Active"
+    }
+  },
+  {
+    "id": 9,
+    "productName": {
+      "name": "Product 9",
+      "icon": "icon-option"
+    },
+    "brand": "Brand 9",
+    "quantity": 6,
+    "total": 60,
+    "status": {
+      "icon": "tick-mark",
+      "text": "Active"
+    }
+  },
+  {
+    "id": 10,
+    "productName": {
+      "name": "Product 10",
+      "icon": "icon-option"
+    },
+    "brand": "Brand 10",
+    "quantity": 9,
+    "total": 90,
+    "status": {
+      "icon": "tick-mark",
+      "text": "Active"
+    }
+  }
+]
